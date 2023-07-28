@@ -5,66 +5,16 @@
 
 ## Table of Contents
 
-- [Goals](#goals)
-- [Documentation](#documentation)
-- [What's Included](#whats-included)
-- [Canvas](#canvas)
-- [Copyright and License](#copyright-and-license)
+- [SWEN90007 Software Design and Architecture Repository](#swen90007-software-design-and-architecture-repository)
+  - [Table of Contents](#table-of-contents)
+  - [Goals](#goals)
+  - [Contributors ✨](#contributors-)
 
 ## Goals
 
 - Provide additional learning resources to SWEN90007 students
 - Make getting started with SWEN90007 technologies and project easier
 - More details can be found here: [SWEN90007 Handbook](https://handbook.unimelb.edu.au/2023/subjects/swen90007/print)
-
-## Documentation
-
-SWEN90007's documentation includes tutorials, workshops, project details, samples of code and so on.
-
-The documents are related to our subject planning, available on [Canvas](https://canvas.lms.unimelb.edu.au/courses/158030/)
-
-## What's Included
-Within this repo download you'll find the following directories and files, logically grouping common resources. You'll see something like this:
-````
-├── README.md
-├── code_sample
-│   └── security
-├── course_notes
-│   └── course_notes.pdf
-├── how_to
-│   ├── 2023
-│   │   ├── screenshots
-│   │   ├── first_web_app.md
-│   │   ├── jsp_servlets.md
-│   │   ├── maven.md
-│   │   ├── README.md
-│   │   └── tools_and_plugins.md
-│   └── README.md
-├── project
-│   ├── 2023
-│   │   ├── 1_hotel_booking.md
-│   │   ├── 2_marketplace.md
-│   │   ├── README.md
-│   │   └── project_description.md
-│   └── README.md
-├── setup_dev
-│   ├── 1_intellij_install.md
-│   ├── 2_tomcat_download.md
-│   ├── 3_postgresql_setup.md
-│   ├── 4_create_project.md
-│   ├── 5_github_setup.md
-│   ├── 6_github_clone.md
-│   ├── 7_connect_intellij_postgresql.md
-│   ├── 8_heroku_deploy.md
-│   ├── README.md
-│   └── screenshots
-└── workshops
-│   ├── <workshop_#>
-````
-
-## Canvas
-
-Canvas <https://canvas.lms.unimelb.edu.au/courses/158030/>
 
 
 ## Contributors ✨
