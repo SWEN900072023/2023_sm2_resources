@@ -1,12 +1,12 @@
 # Performance Demo - SWEN90007 
 
-This project exposes the transfer methods implemented in the Concurrency project via a REST API. Its purpose is to demonstrate the use of JMeter and Moskito for performance profiling purposes. It is also useful in demonstrating how JMeter can be useful when testing for concurrency issues in web applications.
+This project exposes the transfer methods implemented in the Concurrency project via a REST API. Its purpose is to demonstrate the use of JMeter and Moskito for performance profiling purposes. It is also useful in demonstrating how JMeter (see "Performance demo.jmx") can be useful when testing for concurrency issues in web applications. 
 
-Transfer ACID: http://<host>:<port>/Performance/webapi/transfer/acid?from=Alice&to=Bob&amount=10
+Transfer ACID: http://\<host\>:\<port>\/Performance/webapi/transfer/acid?from=Alice&to=Bob&amount=10
 
-Transfer Optimistic: http://<host>:<port>/Performance/webapi/transfer/optimistic?from=Alice&to=Bob&amount=10
+Transfer Optimistic: http://\<host\>:\<port\>/Performance/webapi/transfer/optimistic?from=Alice&to=Bob&amount=10
 
-Transfer Pessimistic: http://<host>:<port>/Performance/webapi/transfer/pessimistic?from=Alice&to=Bob&amount=10
+Transfer Pessimistic: http://\<host\>:\<port\>/Performance/webapi/transfer/pessimistic?from=Alice&to=Bob&amount=10
 
 ## Useful Resources
 
